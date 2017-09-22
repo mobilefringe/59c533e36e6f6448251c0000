@@ -78,8 +78,8 @@
                 <li><a href="/dine">DINE</a></li>
                 <li><a href="/location">LOCATION</a></li>
                 <li><a href="#" id="mobile_dd">CENTER INFORMATION</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/longbeach-services">SERVICES</a></li>
-                <li class="hidden_now mobile_menu_dd"><a href="/pages/longbeach-contact-us">CONTACT</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/landing-services">SERVICES</a></li>
+                <li class="hidden_now mobile_menu_dd"><a href="/pages/landing-contact-us">CONTACT</a></li>
             </ul>
         </div>
         <div class="row">
@@ -88,10 +88,10 @@
             </div>
             <div class="nav_container hidden_phone">
                 <div class="social_links">
-                    <a href="//www.facebook.com/LBTowneCenter" target="_blank">
+                    <a href="//www.facebook.com/TheLandinginRenton" target="_blank">
                         <span id="social_facebook"></span>
                     </a>
-                    <a href="//twitter.com/LBTowneCentr" target="_blank">
+                    <a href="//twitter.com/LandinginRenton" target="_blank">
                         <span id="social_twitter"></span>
                     </a>
                     <!--<a href="#" target="_blank">-->
