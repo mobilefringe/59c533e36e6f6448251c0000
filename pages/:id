@@ -30,7 +30,7 @@
            $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/59c533e36e6f6448251c0000/image/jpeg/1505748028000/land_440x1200_side_contact.jpg")
         }
         else if (slug == "landing-privacy-policy"){
-           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/59c533e36e6f6448251c0000/image/jpeg/1505747966000/land_440x1200_side_privacy.jpgg")
+           $('#side_image').attr('src', "//codecloud.cdn.speedyrails.net/sites/59c533e36e6f6448251c0000/image/jpeg/1505747966000/land_440x1200_side_privacy.jpg")
         }
     
         prefix = get_prefix();
