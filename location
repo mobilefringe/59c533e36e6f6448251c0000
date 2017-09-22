@@ -12,12 +12,12 @@
             <p class="side_link">
                 828 N 10th Pl, Renton, WA 98057
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.com/maps?ll=33.828803,-118.087352&z=17&t=m&hl=en-US&gl=CA&mapclient=embed&daddr=7575+Carson+Blvd+Long+Beach,+CA+90808+USA@33.8288025,-118.0873521" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.ca/maps/dir//The+Landing,+828+N+10th+Pl,+Renton,+WA+98057,+USA/@47.4975901,-122.2024349,15z/data=!4m15!1m6!3m5!1s0x0:0xe1413d728bce523a!2sThe+Landing!8m2!3d47.4975901!4d-122.2024349!4m7!1m0!1m5!1m1!1s0x5490681781b83277:0xe1413d728bce523a!2m2!1d-122.2024349!2d47.4975901" target="_blank" >Driving Direction</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
                 <div class="map_overlay" onClick="style.pointerEvents='none'"></div>
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1657.1724780445932!2d-118.0882922164944!3d33.82921356849743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd2ddc4321897d%3A0x8a1d7e6676e1498!2s7575+Carson+Blvd%2C+Long+Beach%2C+CA+90808%2C+USA!5e0!3m2!1sen!2sca!4v1464197838436" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10782.423643360624!2d-122.2024349!3d47.4975901!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe1413d728bce523a!2sThe+Landing!5e0!3m2!1sen!2sca!4v1506112085569" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
             <div id="mm_page_content" class="details_desc"></div>
         </div>
