@@ -156,7 +156,7 @@
                         <button class="newsletter_btn animated_btn">Subscribe</button>
                         <label class="newsletter_label">
                             <input id="newsletter_agree" type="checkbox" />
-                            I agree to receive newsletters from Long Beach Towne Center.
+                            I agree to receive newsletters from The Landing at Renton.
                         </label>
                         <p class="hidden_now" id="success_subscribe">
                             Thank you for subscribing!
@@ -174,13 +174,13 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2016 Long Beach Towne Center
+                © Copyright 2017 The Landing at Renton
             </p>
             <p class="footer_text">
-                7575 Carson Blvd, Long Beach, CA 90808
+                828 N 10th Pl, Renton, WA 98057
             </p>
             <p class="footer_text">
-                <a href="tel:5629381722">562.938.1722</a> | <a href="/pages/longbeach-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:5629381722">562.938.1722</a> | <a href="/pages/landing-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
          <a href="//www.vestar.com/" target="_blank">
                 <img src="//codecloud.cdn.speedyrails.net/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
@@ -191,7 +191,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2017 Long Beach Towne Center
+                    © Copyright 2017 The Landing at Renton
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
@@ -202,10 +202,10 @@
                 <img src="//codecloud.cdn.speedyrails.net/sites/574609776e6f645e19040000/image/png/1463672149000/vestar_logo_footer.png" class="vestar_logo" alt=""> </a>
                 <div>
                     <p class="footer_text">
-                        7575 Carson Blvd, Long Beach, CA 90808
+                       828 N 10th Pl, Renton, WA 98057
                     </p>
                     <p class="footer_text">
-                <a href="tel:56293817225">562.938.1722</a> | <a href="/pages/longbeach-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
+                <a href="tel:56293817225">562.938.1722</a> | <a href="/pages/landing-privacy-policy">Privacy Policy | </a> <a href="/jobs">Jobs</a> | Vestar Property
             </p>
                 </div>
             </div>
