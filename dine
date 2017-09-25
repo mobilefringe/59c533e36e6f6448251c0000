@@ -92,11 +92,11 @@
         var stores = [];
         var s1 = getStoresListByCategoryID(5490)
         var s2 = getStoresListByCategoryID(5492)
-        var s3 = getStoresListByCategoryID(4084)
+      
        
         stores = stores.concat(s1)
         stores = stores.concat(s2)
-        stores = stores.concat(s3)
+        
         
         var newarr = [];
         var unique = {};
