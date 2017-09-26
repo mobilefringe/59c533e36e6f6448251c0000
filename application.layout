@@ -97,7 +97,7 @@
                     <!--<a href="#" target="_blank">-->
                     <!--    <span id="social_pinterest"></span>-->
                     <!--</a>-->
-                    <a href="//www.instagram.com/LBTowneCenter" target="_blank">
+                    <a href="//www.instagram.com/Thelandinginrenton" target="_blank">
                         <span id="social_insta"></span>
                     </a>
                     <a href="//www.youtube.com/user/TheLandingInRenton" target="_blank">
@@ -165,7 +165,7 @@
                 </div>
             </div>
             <div class="footer_col hidden_phone">
-                <a class="pull-right view_more_btn" href="//www.instagram.com/LBTowneCenter" target="_blank">view more ></a>
+                <a class="pull-right view_more_btn" href="//www.instagram.com/Thelandinginrenton" target="_blank">view more ></a>
                 <h5 class="heading">INSTAGRAM</h5>
                 <div id="instafeed"></div>
             </div>
