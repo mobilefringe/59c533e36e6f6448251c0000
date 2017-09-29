@@ -13,7 +13,7 @@
         <ul id="category_container2" class="dropdown-menu" aria-labelledby="cat_dd2">
             <li href="#" class="show_all_stores">All</li>
             <li class="show_cat_stores" data-id="5490">Dining</li>
-            <li class="show_cat_stores" data-id="5492">Restaurant</li>
+           
      
            
         </ul>
@@ -38,7 +38,7 @@
                 <ul id="category_container" class="dropdown-menu" aria-labelledby="cat_dd">
                     <li href="#" class="show_all_stores">All</li>
                  <li class="show_cat_stores" data-id="5490">Dining</li>
-            <li class="show_cat_stores" data-id="5492">Restaurant</li>
+            
           
                 </ul>
             </div>
@@ -91,11 +91,11 @@
     function renderPage(){
         var stores = [];
         var s1 = getStoresListByCategoryID(5490)
-        var s2 = getStoresListByCategoryID(5492)
+     
       
        
         stores = stores.concat(s1)
-        stores = stores.concat(s2)
+     
         
         
         var newarr = [];
