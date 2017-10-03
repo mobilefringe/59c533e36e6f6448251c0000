@@ -12,7 +12,7 @@
             <p class="side_link">
                 828 N 10th Pl, Renton, WA 98057
             </p>
-            <a class="main_btn block animated_btn" href="https://www.google.ca/maps/dir//The+Landing,+828+N+10th+Pl,+Renton,+WA+98057,+USA/@47.4975901,-122.2024349,15z/data=!4m15!1m6!3m5!1s0x0:0xe1413d728bce523a!2sThe+Landing!8m2!3d47.4975901!4d-122.2024349!4m7!1m0!1m5!1m1!1s0x5490681781b83277:0xe1413d728bce523a!2m2!1d-122.2024349!2d47.4975901" target="_blank" >Driving Direction</a>
+            <a class="main_btn block animated_btn" href="https://www.google.ca/maps/dir//The+Landing,+828+N+10th+Pl,+Renton,+WA+98057,+USA/@47.4975901,-122.2024349,15z/data=!4m15!1m6!3m5!1s0x0:0xe1413d728bce523a!2sThe+Landing!8m2!3d47.4975901!4d-122.2024349!4m7!1m0!1m5!1m1!1s0x5490681781b83277:0xe1413d728bce523a!2m2!1d-122.2024349!2d47.4975901" target="_blank" >Driving Directions</a>
         </div>
         <div class="details_col_9" id="event_details_container">
             <div class="map_container">
