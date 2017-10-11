@@ -2,7 +2,7 @@
     <script id="store_details_template" type="x-tmpl-mustache/text">
         <div class="header_banner stores_banner">
             <div class="main_container">
-                <h4 class="header_banner_heading" id="store_name" data-value='{{x_coordinate}},{{y_coordinate}},{{id}}'>{{name}}</h4>
+                <h4 class="header_banner_heading" id="store_name" data-value='{{x_coordinate}},{{y_coordinate}},{{id}}'></h4>
             </div>
         </div>
         <div class="main_container mobile_padding">
