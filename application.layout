@@ -118,7 +118,7 @@
                     <div class="dropdown">
                         <a href="#" type="button" id="dropdownMenuCenterInfo" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">Center Information</a>
                         <ul class="dropdown-menu center_info_dd" aria-labelledby="dropdownMenuCenterInfo">
-                         
+                         <li><a href="/jobs">JOBS</a></li>
                             <li><a href="/pages/landing-contact-us">CONTACT</a></li>
                               <li><a href="/pages/landing-leasing">LEASING</a></li>
                                <li><a href="//codecloud.cdn.speedyrails.net/sites/59c533e36e6f6448251c0000/application/pdf/1520876234000/The Landing at Renton Non-Profit Donation Form (2).pdf" target="_blank">NON-PROFIT DONATION<br> REQUEST FORM</a></li>
