@@ -51,3 +51,6 @@ $animation_color: #263657;
 .landing-privacy-policy{
     background-image: url(//codecloud.cdn.speedyrails.net/sites/59c533e36e6f6448251c0000/image/jpeg/1505748180000/land_1920x150_banner_privacy.jpg);
 }
+.mark, mark {
+    background:transparent;
+}
