@@ -56,6 +56,9 @@
     
     <!-- Site data -->
     <script>
+        $.getJSON("//thelanding.mallmaverick.com/api/v4/landing/subcategories.json?bust=true").done(function(data){
+            
+        });
         setEndPoint('//thelanding.mallmaverick.com/api/v4/landing/all.json');
     </script>
 </head>
